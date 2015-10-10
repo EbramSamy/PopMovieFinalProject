@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Pop Movies</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="pref_sort_label">Sort</string>
+    <string name="pref_sort_key">Sort</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_detail">Movie Detail</string>
+    <string name="title_activity_movie_details">MovieDetails</string>
+    <string name="pref_highest_rated">highest-rated</string>
+    <string name="pref_sort_popular">most popular</string>
+    <string name="pref_favorite">Favorites</string>
+    <string name="action_share">Share</string>
+
+
+    <string name="SortMostPop">popularity.desc</string>
+    <string name="SortHighRated">vote_average.desc</string>
+    <string name="SortFavorite">favorite</string>
+</resources>

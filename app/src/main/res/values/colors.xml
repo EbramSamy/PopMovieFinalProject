@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="myGray" type="color">#9E9E9E</item>
+    <item name="myGold" type="color">#FFC64D</item>
+    <item name="green" type="color">#FF99CC00</item>
+    <item name="orange" type="color">#FFFFBB33</item>
+    <item name="red" type="color">#FFFF4444</item>
+    <color name="movie_color">#FFDD9F</color>
+</resources>
